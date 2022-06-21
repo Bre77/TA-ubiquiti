@@ -2,4 +2,5 @@ vendor_action,cim_action
 A,allowed
 D,blocked
 R,blocked
+RET,allowed
 BLOCK,blocked
